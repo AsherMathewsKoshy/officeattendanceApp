@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509296699508",
+    "project_id": "officeattendanceappinandroid",
+    "storage_bucket": "officeattendanceappinandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509296699508:android:c327c24a526dd75a158921",
+        "android_client_info": {
+          "package_name": "com.example.officeattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1LtQDAqItoNGUqsA_IS4KlxFhfpOddBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

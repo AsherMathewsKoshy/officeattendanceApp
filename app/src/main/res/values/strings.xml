@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">officeattendance</string>
+    <string name="sign_in_as_admin">Sign In as Admin</string>
+    <string name="sign_in_as_employee">Sign In as Employee</string>
+</resources>
